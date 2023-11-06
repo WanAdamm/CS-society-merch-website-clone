@@ -12,6 +12,7 @@ glider_array.forEach((glider,index) => {
     slideToShow: 1,
     draggable: true,
     dots: dots,
+    scrollLock: true,
     });
 
 });
